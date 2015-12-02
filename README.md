@@ -1,5 +1,5 @@
-# Java_RMI_Demo
+# Chatroom
 
-A chatroom implemented using Java RMI.
+A client-server chatroom implemented using Java RMI.
 
 The code is written in NetBearns IDE.
